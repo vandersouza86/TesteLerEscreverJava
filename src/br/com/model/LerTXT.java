@@ -6,5 +6,6 @@ public class LerTXT {
 	public static void main(String[] args) throws IOException {
 		ImprimeEmail_Status imprime = new ImprimeEmail_Status();
 		imprime.gravaArquivo();
+		System.out.println("test git");
 	}
 }
